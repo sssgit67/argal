@@ -1,0 +1,20 @@
+object AlphaForm: TAlphaForm
+  Left = 422
+  Top = 557
+  Align = alClient
+  AlphaBlend = True
+  BorderStyle = bsNone
+  Caption = 'AlphaForm'
+  ClientHeight = 243
+  ClientWidth = 310
+  Color = clBackground
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Visible = True
+  PixelsPerInch = 96
+  TextHeight = 13
+end

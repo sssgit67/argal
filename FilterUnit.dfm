@@ -1,0 +1,45 @@
+object Filter: TFilter
+  Left = 1178
+  Top = 147
+  Align = alClient
+  AlphaBlend = True
+  AlphaBlendValue = 150
+  BorderIcons = []
+  BorderStyle = bsNone
+  Caption = 'Filter'
+  ClientHeight = 304
+  ClientWidth = 341
+  Color = clBlack
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  Position = poScreenCenter
+  Visible = True
+  WindowState = wsMaximized
+  OnCanResize = FormCanResize
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Finish: TLabel
+    Left = 0
+    Top = 0
+    Width = 341
+    Height = 304
+    Align = alClient
+    Alignment = taCenter
+    Caption = #1047#1072#1087#1091#1089#1082' '#1040#1057#1059' '#1040#1056#1043#1040#1051
+    Color = clBlack
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clLime
+    Font.Height = -24
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+    Transparent = True
+    Layout = tlCenter
+    ExplicitWidth = 229
+    ExplicitHeight = 29
+  end
+end
